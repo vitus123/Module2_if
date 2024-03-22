@@ -1,2 +1,2 @@
 # symmetrical-umbrella
-My Urban University Home Works
+Домашняя работа по уроку "Условный оператор. Как работает оператор if."
